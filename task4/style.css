@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: arial;
+}
+h1{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  position:center;
+  background-color:#333441;
+  color:white;
+  height:60px;
+}
+img{
+  margin-left:300px;
+  width:400px;
+}
+.name{
+  background:#33333F21;
+  margin-top:20px;
+  margin-bottom:15px;
+  height:40px;
+  font-size:20px;
+  font-weight:bold;
+  align-items: center;
+  display: flex;
+  padding-left:9px;
+}
+p{
+  margin:10px;
+}
+li{
+  margin:10px;
+}
